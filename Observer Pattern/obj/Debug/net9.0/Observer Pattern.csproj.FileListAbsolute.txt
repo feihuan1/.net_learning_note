@@ -1,0 +1,14 @@
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\bin\Debug\net9.0\Observer Pattern.exe
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\bin\Debug\net9.0\Observer Pattern.deps.json
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\bin\Debug\net9.0\Observer Pattern.runtimeconfig.json
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\bin\Debug\net9.0\Observer Pattern.dll
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\bin\Debug\net9.0\Observer Pattern.pdb
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\obj\Debug\net9.0\Observer Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\obj\Debug\net9.0\Observer Pattern.AssemblyInfoInputs.cache
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\obj\Debug\net9.0\Observer Pattern.AssemblyInfo.cs
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\obj\Debug\net9.0\Observer Pattern.csproj.CoreCompileInputs.cache
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\obj\Debug\net9.0\Observer Pattern.dll
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\obj\Debug\net9.0\refint\Observer Pattern.dll
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\obj\Debug\net9.0\Observer Pattern.pdb
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\obj\Debug\net9.0\Observer Pattern.genruntimeconfig.cache
+C:\Users\pengf\Desktop\projects\cs\playground\Observer Pattern\obj\Debug\net9.0\ref\Observer Pattern.dll
