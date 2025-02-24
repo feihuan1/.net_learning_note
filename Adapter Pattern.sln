@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter Pattern", "Adapter Pattern\Adapter Pattern.csproj", "{5A2CA7BE-2771-4F51-9580-A1C7AC27D65B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asynchronous Programming", "Asynchronous Programming\Asynchronous Programming.csproj", "{DC1F11E1-DD5B-4143-84C2-AB258498592E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5A2CA7BE-2771-4F51-9580-A1C7AC27D65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A2CA7BE-2771-4F51-9580-A1C7AC27D65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A2CA7BE-2771-4F51-9580-A1C7AC27D65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1F11E1-DD5B-4143-84C2-AB258498592E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1F11E1-DD5B-4143-84C2-AB258498592E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1F11E1-DD5B-4143-84C2-AB258498592E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1F11E1-DD5B-4143-84C2-AB258498592E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

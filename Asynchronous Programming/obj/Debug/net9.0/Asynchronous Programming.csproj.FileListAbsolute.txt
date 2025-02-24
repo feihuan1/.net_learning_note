@@ -1,0 +1,15 @@
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\bin\Debug\net9.0\Asynchronous Programming.exe
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\bin\Debug\net9.0\Asynchronous Programming.deps.json
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\bin\Debug\net9.0\Asynchronous Programming.runtimeconfig.json
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\bin\Debug\net9.0\Asynchronous Programming.dll
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\bin\Debug\net9.0\Asynchronous Programming.pdb
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\obj\Debug\net9.0\Asynchronous Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\obj\Debug\net9.0\Asynchronous Programming.AssemblyInfoInputs.cache
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\obj\Debug\net9.0\Asynchronous Programming.AssemblyInfo.cs
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\obj\Debug\net9.0\Asynchronous Programming.csproj.CoreCompileInputs.cache
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\obj\Debug\net9.0\Asynchronous Programming.sourcelink.json
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\obj\Debug\net9.0\Asynchronous Programming.dll
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\obj\Debug\net9.0\refint\Asynchronous Programming.dll
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\obj\Debug\net9.0\Asynchronous Programming.pdb
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\obj\Debug\net9.0\Asynchronous Programming.genruntimeconfig.cache
+C:\Users\pengf\Desktop\projects\cs\playground\Asynchronous Programming\obj\Debug\net9.0\ref\Asynchronous Programming.dll
