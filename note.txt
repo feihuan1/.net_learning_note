@@ -1,0 +1,10 @@
+dotnet run : run code
+dotnet clean : clean compiled code
+dotnet new list : show type of project u can build
+
+dotnet build : build the project
+
+f1: or ctrl+shift+p : open control pallet
+f5(selections): serve and run
+
+ctrl+alt+r : in http file, interact with api

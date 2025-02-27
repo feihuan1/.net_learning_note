@@ -1,0 +1,15 @@
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\bin\Debug\net9.0\Playground.exe
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\bin\Debug\net9.0\Playground.deps.json
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\bin\Debug\net9.0\Playground.runtimeconfig.json
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\bin\Debug\net9.0\Playground.dll
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\bin\Debug\net9.0\Playground.pdb
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\obj\Debug\net9.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\obj\Debug\net9.0\Playground.AssemblyInfoInputs.cache
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\obj\Debug\net9.0\Playground.AssemblyInfo.cs
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\obj\Debug\net9.0\Playground.csproj.CoreCompileInputs.cache
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\obj\Debug\net9.0\Playground.sourcelink.json
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\obj\Debug\net9.0\Playground.dll
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\obj\Debug\net9.0\refint\Playground.dll
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\obj\Debug\net9.0\Playground.pdb
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\obj\Debug\net9.0\Playground.genruntimeconfig.cache
+C:\Users\pengf\Desktop\projects\cs\playground\Playground\obj\Debug\net9.0\ref\Playground.dll

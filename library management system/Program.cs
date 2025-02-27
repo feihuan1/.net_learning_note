@@ -3,10 +3,8 @@ using System.Collections.Generic;
 
 class LibraryManagementSystem
 {
-    // Define the library with a maximum of 5 book titles
     static List<string> library = new List<string>();
 
-    // Function to add a book
     static void AddBook(string title)
     {
         if (library.Count < 5)
